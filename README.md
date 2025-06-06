@@ -33,7 +33,7 @@
 ### 2. 取得專案
 
 ```bash
-git clone [您的專案Git儲存庫網址]
+git clone https://github.com/Danielaaaaa0w0/EarthquakeViewer
 cd earthquake_viewer_app
 ```
 
